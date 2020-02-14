@@ -10,6 +10,7 @@ My favorite programming and general *brain stuff* related podcasts
 * [.NET Rocks!](https://www.dotnetrocks.com/)
 * [CppCast](https://cppcast.com/)
 * [Microsoft Research Podcast](https://www.microsoft.com/en-us/research/blog/category/podcast/)
+* [New Rustacean](https://newrustacean.com/)
 * [Python Bytes](https://pythonbytes.fm/)
 * [Rustacean Station](https://rustacean-station.org/)
 * [Software Engineering Daily](https://softwareengineeringdaily.com/)

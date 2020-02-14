@@ -9,7 +9,7 @@ Welcome to my personal website!
 
 I am a Software Engineer, currently based in Tartu, Estonia.
 
-I developed and maintained back-end for the travel industry and on board softwre for public transportation industry. In my carreer I mostly worked in C++ on Linux systems, I occasionally dwelled in the Java realm and lately I have been mostly working in Python. 
+I developed and maintained back-end for the travel industry and on-board software for public transportation industry. In my carreer I mostly worked in C++ on Linux systems, I occasionally dwelled in the Java realm and lately I have been mostly working in Python. 
 I am trying to follow closely the evolution of Rust, with which I occasionally cook some snippet.
 
 My favourite topics are clean code and best coding practices. I typically enjoy doing and receiving code reviews. I consider this, together with pair programming, a great mean of professional and personal growth. I like simple and good looking code and I write my commit messages with the next developer in mind(that includes me).

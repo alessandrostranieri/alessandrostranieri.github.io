@@ -14,6 +14,6 @@ I am trying to follow closely the evolution of Rust, with which I occasionally c
 
 My favourite topics are clean code and best coding practices. I typically enjoy doing and receiving code reviews. I consider this, together with pair programming, a great mean of professional and personal growth. I like simple and good looking code and I write my commit messages with the next developer in mind(that includes me).
 
-I like to keep myself on top of things with books and podcasts.
+I like to keep myself on top of things with [books](https://www.goodreads.com/review/list/30001015-alessandro-stranieri?shelf=software-engineering-programming&utf8=%E2%9C%93&view=table) and [podcasts](/podcasts/).
 
 At the moment, I am on a *work sabbatical* of sorts and I occupy my free time learning about Computational Neuroscience and Machine Learning.
